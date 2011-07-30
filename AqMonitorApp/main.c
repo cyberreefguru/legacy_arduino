@@ -2,11 +2,20 @@
  * main.c
  *
  *  Created on: Jul 15, 2011
- *      Author: tmsasala
+ *      Author: tom
  *
  *
  *      Monitor consists of 3 sensors, LCD, and switch input.
  *      pH probe, temperature probe, and real-time clock.
+ *
+ * Copyright (c) 2011 Thomas M. Sasala.  All right reserved.
+ *
+ * This work is licensed under the Creative Commons
+ * Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+ * To view a copy of this license, visit
+ * http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+ * California, 94041, USA.
  *
  */
 
